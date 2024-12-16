@@ -48,7 +48,7 @@ gaps:
 
   # Gap between windows and the screen edge.
   outer_gap:
-    top: "45px"
+    top: "50px"
     right: "5px"
     bottom: "5px"
     left: "5px"
@@ -135,7 +135,7 @@ window_rules:
 
       - window_process: { equals: "rider64" }
         window_title:
-          { regex: "Local History: .*|Rename|Add Files to Git|Debug*" }
+          { regex: "Local History: .*|Rename|Add Files to Git|Debug*|Pull*" }
 
       # Ignore rules for various 3rd-party apps.
       - window_process: { equals: "PowerToys" }
