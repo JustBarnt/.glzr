@@ -127,7 +127,7 @@ window_rules:
       - window_process: { equals: "zebar" }
       - window_process: { equals: "AsincConfig" }
 
-      - window_title: { regex: "Task Manager" }
+      - window_title: { regex: "Task Manager|Services" }
 
       # Ignores picture-in-picture windows for browsers.
       - window_title: { regex: "[Pp]icture.in.[Pp]icture" }
@@ -139,7 +139,7 @@ window_rules:
       - window_process: { equals: "rider64" }
         window_title:
           {
-            regex: "Local History: .*|Rename|Debug*|Pull*|Settings|Push*|.*Git|Change*",
+            regex: "Local History: .*|Rename|Debug*|Pull*|Settings|Push*|.*Git|Change*|Properties",
           }
 
       # Ignore rules for various 3rd-party apps.
