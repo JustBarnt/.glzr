@@ -2,7 +2,11 @@
   "$schema": "https://github.com/glzr-io/zebar/raw/v2.4.0/resources/settings-schema.json",
   "startupConfigs": [
     {
-      "path": "neobrutal/index.html",
+      "path": "starter/with-glazewm.html",
+      "preset": "default"
+    },
+    {
+      "path": "starter\\with-glazewm.zebar.json",
       "preset": "default"
     }
   ]
