@@ -127,6 +127,9 @@ window_rules:
       - window_process: { equals: "zebar" }
       - window_process: { equals: "AsincConfig" }
 
+      - window_process: { equals: "mstsc"}
+        window_class: { regex: "TscShellContainerClass" }
+
       - window_title: { regex: "Task Manager|Services" }
 
       # Ignores picture-in-picture windows for browsers.
@@ -139,7 +142,7 @@ window_rules:
       - window_process: { equals: "rider64" }
         window_title:
           {
-            regex: "Local History: .*|Rename|Debug*|Pull*|Settings|Push*|.*Git|Change*|Properties|New*|Create:*",
+            regex: "Local History: .*|Rename|Debug*|Pull*|Settings|Push*|.*Git|Change*|Properties|New*|Create:*|Terminal",
           }
 
       - window_process: { equals: "CCICParsing" }
