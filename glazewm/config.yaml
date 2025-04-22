@@ -72,7 +72,7 @@ window_effects:
     corner_style:
       enabled: true
       # Allowed values: 'square', 'rounded', 'small_rounded'.
-      style: "square"
+      style: "rounded"
 
   # Visual effects to apply to non-focused windows.
   other_windows:
@@ -82,8 +82,8 @@ window_effects:
     hide_title_bar:
       enabled: false
     corner_style:
-      enabled: false
-      style: "square"
+      enabled: true
+      style: "rounded"
     transparency:
       enabled: false
       opacity: "100%"
