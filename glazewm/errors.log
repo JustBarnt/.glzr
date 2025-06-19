@@ -1,0 +1,22 @@
+[2m2025-02-14T14:15:40.624339Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-02-26T20:18:42.849887Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-03-05T18:38:28.669472Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-03-24T13:13:16.168227Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-04-07T12:39:28.770393Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-04-07T13:49:29.748063Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-04-14T12:42:01.737185Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)

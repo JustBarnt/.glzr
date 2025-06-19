@@ -1,0 +1,4 @@
+[2m2025-06-19T14:37:40.583822Z[0m [31mERROR[0m [2mzebar::sys_tray[0m[2m:[0m Error handling menu event: No widget pack found for 'oyvinw.reasonable'.
+[2m2025-06-19T14:40:22.007021Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'overline-zebar'.
+[2m2025-06-19T14:46:03.438980Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'overline-zebar'.
+[2m2025-06-19T14:53:11.805931Z[0m [31mERROR[0m [2mzebar::widget_factory[0m[2m:[0m Failed to start widget on startup: No widget pack found for 'overline-zebar'.
